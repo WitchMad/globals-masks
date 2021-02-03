@@ -1,6 +1,6 @@
 {
   "name": "globals-masks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Many mask types with Javascript",
   "main": "index.js",
   "scripts": {
