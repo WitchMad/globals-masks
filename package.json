@@ -1,9 +1,8 @@
 {
   "name": "globals-masks",
-  "version": "1.0.3",
+  "version": "1.0.31",
   "description": "Many mask types with Javascript",
   "main": "./lib/main.js",
-  "types": "./lib/main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
