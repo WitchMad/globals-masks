@@ -1,0 +1,22 @@
+{
+  "name": "globals-masks",
+  "version": "1.0.1",
+  "description": "Many mask types with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mask",
+    "javascript",
+    "currency",
+    "date",
+    "phone",
+    "number",
+    "cpf",
+    "cnpj",
+    "creditcard"
+  ],
+  "author": "Lucas Henrique",
+  "license": "ISC"
+}
